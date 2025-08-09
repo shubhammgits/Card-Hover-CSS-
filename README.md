@@ -1,1 +1,1 @@
-Card Hover CSS effect demo!
+Card Hover CSS effect demo
